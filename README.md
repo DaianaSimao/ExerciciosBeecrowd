@@ -1,3 +1,3 @@
-# Exerc-ciosBeecrowd
-Exercicos do Beecrowd resolvidos em Ruby
+# ExerciciosBeecrowd
+Exercícios do Beecrowd resolvidos em Ruby
 teste
