@@ -10,9 +10,3 @@ horas = duracao_total / 60
 minutos = duracao_total % 60
 
 puts "O JOGO DUROU #{horas} HORA(S) E #{minutos} MINUTO(S)"
-
-
-# print hi
-# print mi
-# print hf
-# print mf

@@ -4,7 +4,7 @@
 # O arquivo de entrada contém um valor inteiro N.
 # Saída
 
-Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
+#Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
 
 # Nome: Daiana Simão
 # Data: 05/07/22
