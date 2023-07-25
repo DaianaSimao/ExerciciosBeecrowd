@@ -1,8 +1,7 @@
 numero = gets.to_i
-i = 0
-while i < numero
+i = 1
+for i in 1..numero
   if i.odd?
     puts i
   end
-  i+=1
 end
